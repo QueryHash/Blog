@@ -1,0 +1,2 @@
+# Blog
+QueryHash's Blog
